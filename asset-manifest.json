@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/busgo-frontend/static/css/main.158850de.css",
+    "main.js": "/busgo-frontend/static/js/main.702d6bde.js",
+    "index.html": "/busgo-frontend/index.html",
+    "main.158850de.css.map": "/busgo-frontend/static/css/main.158850de.css.map",
+    "main.702d6bde.js.map": "/busgo-frontend/static/js/main.702d6bde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.158850de.css",
+    "static/js/main.702d6bde.js"
+  ]
+}
